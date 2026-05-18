@@ -115,7 +115,7 @@ Add your dashboard screenshot here.
 Example:
 
 ```md
-![Dashboard Preview](1.png)(2.png)
+![Dashboard Preview](1.png)
 ```
 
 ---
